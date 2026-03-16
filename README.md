@@ -28,7 +28,3 @@ This repository contains a full-scale Business Intelligence audit of the **Maven
 3. **Step 2:** Execute `SQL Final.sql` to generate the report suite.
 
 > **Note:** This project was developed and tested using **DBeaver** and **MySQL Server**. Depending on your specific SQL flavor or client version, slight variations in result formatting or performance may occur.
-
-Step 2: Execute SQL Final.sql to generate the report suite.
-
-Note: This project was developed and tested using DBeaver and MySQL Server. Depending on your specific SQL flavor or client version, slight variations in result formatting or performance may occur.
